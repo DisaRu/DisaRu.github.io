@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.500b08c0.css",
-    "main.js": "/static/js/main.09600de9.js",
-    "static/media/cheese.png": "/static/media/cheese.b4cbaf4be47fc24dde61.png",
-    "static/media/lemon.png": "/static/media/lemon.9c379cca536da88ffbb6.png",
-    "static/media/eggs.png": "/static/media/eggs.5cb5232a751c16e7e440.png",
-    "static/media/olives.png": "/static/media/olives.588bbf82644e3135e4f7.png",
-    "static/media/shrimps.png": "/static/media/shrimps.2937cf9d0f09226d5f35.png",
-    "static/media/food.png": "/static/media/food.8b908c3e45f2f9c4c199.png",
-    "static/media/fruit.png": "/static/media/fruit.17275d01f3e76b2ce1ef.png",
+    "main.css": "/static/css/main.1fe4a8da.css",
+    "main.js": "/static/js/main.7e19e72e.js",
+    "static/media/olives.png": "/static/media/olives.c546774eb3b783b35095.png",
+    "static/media/fruit.png": "/static/media/fruit.79c9cf3cd0b09f461b55.png",
+    "static/media/lemon.png": "/static/media/lemon.ec0d2c6c071e9f72d421.png",
+    "static/media/salmon.png": "/static/media/salmon.0735c17944f6b9568c37.png",
+    "static/media/shrimps.png": "/static/media/shrimps.1379366f458cb1be7fed.png",
+    "static/media/cheese.png": "/static/media/cheese.6a7200bd4eebad995bfe.png",
+    "static/media/food.png": "/static/media/food.a1f42d1af139fc937af4.png",
+    "static/media/profitroli.png": "/static/media/profitroli.8d76dcbd103c5513b331.png",
+    "static/media/eggs.png": "/static/media/eggs.3222503ac47d8a14bc11.png",
     "index.html": "/index.html",
-    "main.500b08c0.css.map": "/static/css/main.500b08c0.css.map",
-    "main.09600de9.js.map": "/static/js/main.09600de9.js.map"
+    "main.1fe4a8da.css.map": "/static/css/main.1fe4a8da.css.map",
+    "main.7e19e72e.js.map": "/static/js/main.7e19e72e.js.map"
   },
   "entrypoints": [
-    "static/css/main.500b08c0.css",
-    "static/js/main.09600de9.js"
+    "static/css/main.1fe4a8da.css",
+    "static/js/main.7e19e72e.js"
   ]
 }
